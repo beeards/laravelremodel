@@ -1,6 +1,6 @@
 {
-    "name": "windawake/laravelremodel",
-    "description": "Create remote driver to convert remote api request into laravel model.",
+    "name": "beeards/laravelremodel",
+    "description": "Create remote driver to convert remote api request into laravel model. A fork from windawake/laravelremodel",
     "license": "MIT",
     "authors": [
         {
